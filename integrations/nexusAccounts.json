@@ -1,0 +1,38 @@
+{
+  "0x544f96434f77437425d5ac40fd4755c0cf39399a": {
+    "ethClaimAmount": "5.0",
+    "daiClaimAmount": "0.0"
+  },
+  "0x2b9b48bbdd8018396daad50364c467246db30d87": {
+    "ethClaimAmount": "0.0",
+    "daiClaimAmount": "130000.0"
+  },
+  "0x7572a6d1f0258e99780ec7912a148873c3288793": {
+    "ethClaimAmount": "0.0",
+    "daiClaimAmount": "23308.0"
+  },
+  "0xd4e26683635bf3dc9ead5f31b935c33cc1ce1838": {
+    "ethClaimAmount": "199.6",
+    "daiClaimAmount": "0.0"
+  },
+  "0x5060df5a50b5bd6a8a24a136f39a2f4bd2243456": {
+    "ethClaimAmount": "0.84",
+    "daiClaimAmount": "0.0"
+  },
+  "0x800c443d4fc0048d2f4a83d64cdec93a824be745": {
+    "ethClaimAmount": "106.73271",
+    "daiClaimAmount": "0.0"
+  },
+  "0xfb82ee91086d6e1ab97da45e69ce3a6f0958d81b": {
+    "ethClaimAmount": "0.0",
+    "daiClaimAmount": "23933.19"
+  },
+  "0x2fc2f705110a7f46ce85f701d7217ef1018f01a3": {
+    "ethClaimAmount": "0.0",
+    "daiClaimAmount": "1559403.28"
+  },
+  "0x1b56403289ce09ed7afe2e11b220cf373cb043a0": {
+    "ethClaimAmount": "60.0",
+    "daiClaimAmount": "0.0"
+  }
+}

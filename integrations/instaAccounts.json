@@ -1,0 +1,447 @@
+{
+    "0xa103ae8c7a5f65f5ff34abc581f9c4100cc22164": {
+      "authorities": [
+        {
+          "address": "0xd5d9b6f5ee9b87e8a5815d8e6910a0148170e0a6",
+          "isContract": true
+        },
+        {
+          "address": "0x6937792adbd9d288479da613abcf4e8eb869ad80",
+          "isContract": false
+        },
+        {
+          "address": "0x530911c29c0862a29f32de1a0ffd9db070205f0c",
+          "isContract": true
+        },
+        {
+          "address": "0x3444cbbec2910d0701f4a211e3cf4cc2acb75a7a",
+          "isContract": true
+        }
+      ]
+    },
+    "0x5d8cca5e1b6983db986cf82784108478a02d0782": {
+      "authorities": [
+        {
+          "address": "0xb6adb8ec1db32a4b6d42362b8e32f6cc0804af31",
+          "isContract": false
+        }
+      ]
+    },
+    "0x9178558bdc75b3ac1ba78d9cba989a5532e06679": {
+      "authorities": [
+        {
+          "address": "0x141f59a0283303a6b882b4d6973e418f8d75f9b3",
+          "isContract": false
+        }
+      ]
+    },
+    "0x9622ea8006df15c88e8e85bd00fe825b7d622c91": {
+      "authorities": [
+        {
+          "address": "0xd268ade76b30b38d6d525c5e7fb5a997f19166aa",
+          "isContract": false
+        }
+      ]
+    },
+    "0x98969d3e91689728e0af7c835b6a207a373d806c": {
+      "authorities": [
+        {
+          "address": "0xab3a29bd01d5308a03b31f222774b5f5d5e113d3",
+          "isContract": false
+        }
+      ]
+    },
+    "0xef925403814062ba53257495fa950b2591b6bc41": {
+      "authorities": [
+        {
+          "address": "0xec538b8b0d1f96aca1cd89822ac53a052d762176",
+          "isContract": false
+        },
+        {
+          "address": "0xfea004aef10f4a08f8c7636f1cbfb7965be5db01",
+          "isContract": true
+        },
+        {
+          "address": "0x08c1c01be430c9381ad2794412c3e940254cd97c",
+          "isContract": true
+        }
+      ]
+    },
+    "0x64928ef9c3fc22550111d92b029157e60a880859": {
+      "authorities": [
+        {
+          "address": "0x29d55cb465dc50fd4a13a6f0c30a15a843de3894",
+          "isContract": false
+        }
+      ]
+    },
+    "0x22ceacd6dbd4ed10a3a13745efc0c491fcbcfe58": {
+      "authorities": [
+        {
+          "address": "0x0550bed1c94afbd468aa739852632d7e9b4c2f86",
+          "isContract": false
+        }
+      ]
+    },
+    "0x3b97b3fac818d7b6661214ee69b89958ad391118": {
+      "authorities": [
+        {
+          "address": "0x6dd173b67ccc90e384d8e6d4009427caab43f3b6",
+          "isContract": false
+        },
+        {
+          "address": "0xfea004aef10f4a08f8c7636f1cbfb7965be5db01",
+          "isContract": true
+        }
+      ]
+    },
+    "0x0d5ce7baceac2fdd95dfb3b8b3dbdf5386ba9222": {
+      "authorities": [
+        {
+          "address": "0xdf211065d33c6907aef314bd23d2f09a1ccd9615",
+          "isContract": false
+        }
+      ]
+    },
+    "0xf14dcdff723e863f652af31d8ec3f2ce4f9f567c": {
+      "authorities": [
+        {
+          "address": "0x8967b529a879e14c3b95a5a5a13b8876cc24efad",
+          "isContract": false
+        }
+      ]
+    },
+    "0x28336dfe7e9ea27e6efc096134b768e52cdb69f1": {
+      "authorities": [
+        {
+          "address": "0x9f620ccbcb854f15575bcefffc41dac3173f2b48",
+          "isContract": false
+        }
+      ]
+    },
+    "0x7b71d2d6d5d2b3052eb748977c8574abc4cb051c": {
+      "authorities": [
+        {
+          "address": "0xe0d8926a51f9a1dd8e089d9a3dd88f88ffb2f1dc",
+          "isContract": false
+        }
+      ]
+    },
+    "0x3c2d169fe8997942fb77a55ae605fa41f4eef43c": {
+      "authorities": [
+        {
+          "address": "0xb95f0c22d041197c95e0f2d3d5a0cc8e5979508d",
+          "isContract": false
+        }
+      ]
+    },
+    "0x8635f98fb831e7bdda8e4342c92d13a110a54264": {
+      "authorities": [
+        {
+          "address": "0x646c25bc126b25d82e182977bc0907abb94b94df",
+          "isContract": false
+        }
+      ]
+    },
+    "0x0a9efbb2173c146991ed7341a0b09d7a4eb239dc": {
+      "authorities": [
+        {
+          "address": "0x5a828a799168073e616d6cee190dcd446edb0075",
+          "isContract": false
+        }
+      ]
+    },
+    "0x3aa694ebdc97e4465614057a9e070817cd844dd9": {
+      "authorities": [
+        {
+          "address": "0x910e413dbf3f6276fe8213ff656726bdc142e08e",
+          "isContract": false
+        },
+        {
+          "address": "0xf0066c61bbc303e9d325f8b11e2a8183e9df4580",
+          "isContract": true
+        }
+      ]
+    },
+    "0x48f60412034e4d1b58214cc7b6d53e80cf2f2e91": {
+      "authorities": [
+        {
+          "address": "0x0c74e0e80b442cf74b1c515b642908b82a8878e7",
+          "isContract": false
+        }
+      ]
+    },
+    "0x7c0bf9a59696a3e6a10eff42faf2697adf6768f3": {
+      "authorities": [
+        {
+          "address": "0x9f60699ce23f1ab86ec3e095b477ff79d4f409ad",
+          "isContract": false
+        },
+        {
+          "address": "0x343635557b6bb7283d24aecd9c49259ba0648acf",
+          "isContract": true
+        },
+        {
+          "address": "0xc05cbfe0dcc1798074635a0ab1a758b4465cc155",
+          "isContract": false
+        },
+        {
+          "address": "0xa6c13954e8c056584f80bbb4231ec2a7cbf45e1c",
+          "isContract": false
+        }
+      ]
+    },
+    "0xa30d649868544a9ba100e08dedb1fd1c743993f4": {
+      "authorities": [
+        {
+          "address": "0xa3daaa26f88cdbb0e37c76ab9ba8ff802938b791",
+          "isContract": false
+        }
+      ]
+    },
+    "0x6c12583c57ababcddc8d245cd3154167dbc14ea7": {
+      "authorities": [
+        {
+          "address": "0xbbef882ee72ae989bbff05c8212b24eae68b58f3",
+          "isContract": false
+        }
+      ]
+    },
+    "0x52c83407cd39f68393e6a3d32f2dc9c8578ead5e": {
+      "authorities": [
+        {
+          "address": "0xca0ed3cedd8e9dda5cd631b72fb90d5cec1d45ad",
+          "isContract": true
+        },
+        {
+          "address": "0x97e580cc3e568796dfe4114843f87088dfa2c303",
+          "isContract": false
+        }
+      ]
+    },
+    "0x3a230f7bb9f829c8a96c67c026377021d1ce850c": {
+      "authorities": [
+        {
+          "address": "0x5cc70ff4ae50eac73192ab1d51cdec1bb452c048",
+          "isContract": false
+        }
+      ]
+    },
+    "0x61408e2ec79168de2908eb3f87fba1e08a4c8072": {
+      "authorities": [
+        {
+          "address": "0xece145b9dd15ff7702f517454e7396829aafe9ef",
+          "isContract": false
+        },
+        {
+          "address": "0xa8abe411d1a3f524a2ab9c54f8427066a1f9f266",
+          "isContract": true
+        },
+        {
+          "address": "0xc5ef0df6c81f3b3f5a29a6437354e7e45d397855",
+          "isContract": true
+        },
+        {
+          "address": "0x1d29756e8f7b091ce6c11a35980de79c7eda5d1f",
+          "isContract": false
+        },
+        {
+          "address": "0x910e413dbf3f6276fe8213ff656726bdc142e08e",
+          "isContract": false
+        },
+        {
+          "address": "0xfea004aef10f4a08f8c7636f1cbfb7965be5db01",
+          "isContract": true
+        },
+        {
+          "address": "0xf0066c61bbc303e9d325f8b11e2a8183e9df4580",
+          "isContract": true
+        }
+      ]
+    },
+    "0x049716c2e18e6347edb2f3decf654bdb32334358": {
+      "authorities": [
+        {
+          "address": "0xcf38409685ae41a9789d09d4423e55aa0d849123",
+          "isContract": false
+        }
+      ]
+    },
+    "0xdd546db67af5e9542b39c92e820e04dfad1b0bfa": {
+      "authorities": [
+        {
+          "address": "0x97e580cc3e568796dfe4114843f87088dfa2c303",
+          "isContract": false
+        }
+      ]
+    },
+    "0x321bf29f2d5dad204b5e25c31cac4348b6f29f96": {
+      "authorities": [
+        {
+          "address": "0x5c311563ea0bb8f9ca2471012eb2f495bd687d18",
+          "isContract": false
+        },
+        {
+          "address": "0x08c1c01be430c9381ad2794412c3e940254cd97c",
+          "isContract": true
+        }
+      ]
+    },
+    "0x5b1b18578efdaa01e46f31aa5e759b66b089767b": {
+      "authorities": [
+        {
+          "address": "0x96a637b32dbfaac12ba08226a4cefb97eb668f8a",
+          "isContract": false
+        },
+        {
+          "address": "0xd13f3323ff8a53f0677a55c1116cf0ad2599ea3d",
+          "isContract": true
+        }
+      ]
+    },
+    "0xa634e5d1cc1a87eab9ff93ecdcd0b1d62dceef8b": {
+      "authorities": [
+        {
+          "address": "0xb5f36cf1df286de18f5b0bb25c0f423cf3b34eff",
+          "isContract": false
+        }
+      ]
+    },
+    "0xd4a661f8e2028fdd3e27995f3e551122db7894cf": {
+      "authorities": [
+        {
+          "address": "0xbdb1cefb36e831a68624b3ee01b0899592f17412",
+          "isContract": false
+        }
+      ]
+    },
+    "0x300b8a32c661543d6db3d03818fdcabee70f9f7d": {
+      "authorities": [
+        {
+          "address": "0xab0bcaa844c597d673316b27c9df9f93decafdb1",
+          "isContract": false
+        }
+      ]
+    },
+    "0x0e098deb1d2b35e963f0b7c51ac19e90a0e8f497": {
+      "authorities": [
+        {
+          "address": "0x690c738df4398574a62de1db5306ee9159294a90",
+          "isContract": false
+        }
+      ]
+    },
+    "0x3aac936216a43d4195791819ecc4975ba8fb6c72": {
+      "authorities": [
+        {
+          "address": "0x910e413dbf3f6276fe8213ff656726bdc142e08e",
+          "isContract": false
+        }
+      ]
+    },
+    "0xeb380db7c810e16d14bb94fc2ae9b2d62c83907c": {
+      "authorities": [
+        {
+          "address": "0x92f16b08a272c2a3048d93ee807fd3b6225e3bc3",
+          "isContract": false
+        },
+        {
+          "address": "0x6c4f6605befbadf7a01a7d4f458e89fd67058d4b",
+          "isContract": false
+        }
+      ]
+    },
+    "0x9600a48ed0f931d0c422d574e3275a90d8b22745": {
+      "authorities": [
+        {
+          "address": "0xa0d3707c569ff8c87fa923d3823ec5d81c98be78",
+          "isContract": true
+        }
+      ]
+    },
+    "0x74b3691ebc3fb083e36065a1986d6c490b13e95a": {
+      "authorities": [
+        {
+          "address": "0x3e8e5a4344a7a61ba5c8fdf1bbca91dd06e6aa30",
+          "isContract": true
+        }
+      ]
+    },
+    "0x0e2975c307e58bb77e452f51311e1543f01d327e": {
+      "authorities": [
+        {
+          "address": "0xa8abe411d1a3f524a2ab9c54f8427066a1f9f266",
+          "isContract": true
+        },
+        {
+          "address": "0x910e413dbf3f6276fe8213ff656726bdc142e08e",
+          "isContract": false
+        }
+      ]
+    },
+    "0x39708fe2ce82ffed5247ed08cb3e173ed3a86b70": {
+      "authorities": [
+        {
+          "address": "0x876d4e91cfffeb860aefee101a7f30f29fa40b8b",
+          "isContract": false
+        }
+      ]
+    },
+    "0xe7825c430b037b552041cf3159ab725818aec14b": {
+      "authorities": [
+        {
+          "address": "0xd9fb3c9e4e4b2bfa4e97e8816cdff8d7caaac851",
+          "isContract": false
+        }
+      ]
+    },
+    "0x1b3ddefdfcf95e9781bbed7814c3f21a7c7d0d64": {
+      "authorities": [
+        {
+          "address": "0xae2586e76c8a4d8dc1ff3d9ab70bec760ae143c2",
+          "isContract": false
+        }
+      ]
+    },
+    "0xb9e04ca6c1c1bfa6825569d93819219b47f0903a": {
+      "authorities": [
+        {
+          "address": "0x9f60699ce23f1ab86ec3e095b477ff79d4f409ad",
+          "isContract": false
+        }
+      ]
+    },
+    "0x8a7b90228c9c54d024b476f178a659ce2c61182a": {
+      "authorities": [
+        {
+          "address": "0x988a4c83b739cbcc24627bf91ed560f0c9afb08e",
+          "isContract": true
+        },
+        {
+          "address": "0x867319162659ac593b2f2cf97a970eb7a55d87e9",
+          "isContract": false
+        }
+      ]
+    },
+    "0x72868e2b236b3bdfec085808fef07725340e7680": {
+      "authorities": [
+        {
+          "address": "0xccfa0530b9d52f970d1a2daea670ce58e4176389",
+          "isContract": false
+        }
+      ]
+    },
+    "0x831b072ec27f4d2998ea6158381355c504c0189f": {
+      "authorities": [
+        {
+          "address": "0xe5818d70a9b5aed2bfde4e41fbcb07dd80f8fc84",
+          "isContract": false
+        },
+        {
+          "address": "0x09bf58de6a41ec7f2bd54cfd2bd53867e5c8bc6e",
+          "isContract": false
+        }
+      ]
+    }
+  }
+  

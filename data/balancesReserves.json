@@ -1,0 +1,2027 @@
+{
+  "reserveWBTC": {
+    "subaccountsTotalValue": "42.941923413909218004",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "42.941923413909218004",
+      "markets": [
+        {
+          "underlying": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+          "symbol": "WBTC",
+          "eTokenAddr": "0x0275b156cD77c5ed82D44bCc5f9E93eECff20138",
+          "eTokenBalance": "3.035080042626836431",
+          "eTokenBalanceUnderlying": "3.0728978",
+          "dTokenAddr": "0x36c4A49F624342225bA45fcfc2e1A4BcBCDcE557",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "42.941923413909218004",
+          "borrowValue": "0.0",
+          "totalValue": "42.941923413909218004"
+        }
+      ]
+    }
+  },
+  "reserveUNI": {
+    "subaccountsTotalValue": "19.138125818356745472",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "19.138125818356745472",
+      "markets": [
+        {
+          "underlying": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+          "symbol": "UNI",
+          "eTokenAddr": "0xf1F2ECb2F271Ad31DD9204BFE91b8d1724E9d616",
+          "eTokenBalance": "5028.032161510297327634",
+          "eTokenBalanceUnderlying": "5106.005564959005344644",
+          "dTokenAddr": "0x2C7299034ca3421FC7f29DF0077F6a11f0aA7fda",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "19.138125818356745472",
+          "borrowValue": "0.0",
+          "totalValue": "19.138125818356745472"
+        }
+      ]
+    }
+  },
+  "reserveSDL": {
+    "subaccountsTotalValue": "34.328127541517454661",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "34.328127541517454661",
+      "markets": [
+        {
+          "underlying": "0xf1dc500fde233a4055e25e5bbf516372bc4f6871",
+          "symbol": "SDL",
+          "eTokenAddr": "0x0BB86777DcD305B250B0663793642CDf64330dd1",
+          "eTokenBalance": "4187870.587174006216452994",
+          "eTokenBalanceUnderlying": "4690143.901042243421760829",
+          "dTokenAddr": "0xF7FAC54d8741E46021aaBd2D186686eEd00cc159",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "34.328127541517454661",
+          "borrowValue": "0.0",
+          "totalValue": "34.328127541517454661"
+        }
+      ]
+    }
+  },
+  "reserveBANK": {
+    "subaccountsTotalValue": "0.702013892689421989",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.702013892689421989",
+      "markets": [
+        {
+          "underlying": "0x24a6a37576377f63f194caa5f518a60f45b42921",
+          "symbol": "BANK",
+          "eTokenAddr": "0x1600c6Df6eDeB80B56Fa74E8590bb1439ed0De99",
+          "eTokenBalance": "694.47528912829355353",
+          "eTokenBalanceUnderlying": "719.064695214376709929",
+          "dTokenAddr": "0x7c7FD7F0dD1E0D4f57b0bE2EaBD3F6Db895817A1",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.702013892689421989",
+          "borrowValue": "0.0",
+          "totalValue": "0.702013892689421989"
+        }
+      ]
+    }
+  },
+  "reserveFTX Token": {
+    "subaccountsTotalValue": "0.000000459503907349",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000000459503907349",
+      "markets": [
+        {
+          "underlying": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+          "symbol": "FTX Token",
+          "eTokenAddr": "0xc8Bb5b9DF8Dcd2ef92622428843d48fF092C5439",
+          "eTokenBalance": "0.000627621710965181",
+          "eTokenBalanceUnderlying": "0.000663535846218617",
+          "dTokenAddr": "0x53130F2d8CECc9d77356D77EEa999413a3e07E86",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000000459503907349",
+          "borrowValue": "0.0",
+          "totalValue": "0.000000459503907349"
+        }
+      ]
+    }
+  },
+  "reserveOGN": {
+    "subaccountsTotalValue": "0.047418460404862386",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.047418460404862386",
+      "markets": [
+        {
+          "underlying": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+          "symbol": "OGN",
+          "eTokenAddr": "0x5f112c63D3bfe93F93F3e87C819C6e17c19434a2",
+          "eTokenBalance": "681.222487993235954909",
+          "eTokenBalanceUnderlying": "683.46607349986399493",
+          "dTokenAddr": "0x6Ca1396Bfb9354a2a46A581F1Dd40DB788b7753f",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.047418460404862386",
+          "borrowValue": "0.0",
+          "totalValue": "0.047418460404862386"
+        }
+      ]
+    }
+  },
+  "reserveUSDT": {
+    "subaccountsTotalValue": "93.246080408987688059",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "93.246080408987688059",
+      "markets": [
+        {
+          "underlying": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "symbol": "USDT",
+          "eTokenAddr": "0x4d19F33948b99800B6113Ff3e83beC9b537C85d2",
+          "eTokenBalance": "140810.60419771222904036",
+          "eTokenBalanceUnderlying": "146325.479221",
+          "dTokenAddr": "0x49426E647db495db6Ef5Bf6c4283D0a3a25B5688",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "93.246080408987688059",
+          "borrowValue": "0.0",
+          "totalValue": "93.246080408987688059"
+        }
+      ]
+    }
+  },
+  "reserveSTG": {
+    "subaccountsTotalValue": "55.748764292114745878",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "55.748764292114745878",
+      "markets": [
+        {
+          "underlying": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+          "symbol": "STG",
+          "eTokenAddr": "0x5Db541F43e228fb7552D769AC9CDd554c45C3bb3",
+          "eTokenBalance": "116059.429745963875188991",
+          "eTokenBalanceUnderlying": "127130.404497743625036501",
+          "dTokenAddr": "0x2266dc3544b428749B935e77c6354fd3ab0C4dF1",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "55.748764292114745878",
+          "borrowValue": "0.0",
+          "totalValue": "55.748764292114745878"
+        }
+      ]
+    }
+  },
+  "reserveUSDC": {
+    "subaccountsTotalValue": "602.755399833301271054",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "602.755399833301271054",
+      "markets": [
+        {
+          "underlying": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "symbol": "USDC",
+          "eTokenAddr": "0xEb91861f8A4e1C12333F42DCE8fB0Ecdc28dA716",
+          "eTokenBalance": "935200.521697857740159543",
+          "eTokenBalanceUnderlying": "961816.791514",
+          "dTokenAddr": "0x84721A3dB22EB852233AEAE74f9bC8477F8bcc42",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "602.755399833301271054",
+          "borrowValue": "0.0",
+          "totalValue": "602.755399833301271054"
+        }
+      ]
+    }
+  },
+  "reserveRAI": {
+    "subaccountsTotalValue": "3.274156161017973222",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "3.274156161017973222",
+      "markets": [
+        {
+          "underlying": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+          "symbol": "RAI",
+          "eTokenAddr": "0xFE1Ad4324334586468eEC7E21044FCfd797988FF",
+          "eTokenBalance": "1810.969780367127535765",
+          "eTokenBalanceUnderlying": "1875.494439787237706065",
+          "dTokenAddr": "0x60E7e20F6f3479464449D01750E4023665F58109",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "3.274156161017973222",
+          "borrowValue": "0.0",
+          "totalValue": "3.274156161017973222"
+        }
+      ]
+    }
+  },
+  "reserveLUSD": {
+    "subaccountsTotalValue": "4.172946995902393072",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "4.172946995902393072",
+      "markets": [
+        {
+          "underlying": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+          "symbol": "LUSD",
+          "eTokenAddr": "0x2725A01c09868cc6F8deD2f7404C6A31F85D8f8b",
+          "eTokenBalance": "6457.951015044148422343",
+          "eTokenBalanceUnderlying": "6523.938741814547956432",
+          "dTokenAddr": "0xa2805e1a5572dC1067BD5A712589f43335F46A80",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "4.172946995902393072",
+          "borrowValue": "0.0",
+          "totalValue": "4.172946995902393072"
+        }
+      ]
+    }
+  },
+  "reserveAAVE": {
+    "subaccountsTotalValue": "0.69514885213448422",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.69514885213448422",
+      "markets": [
+        {
+          "underlying": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+          "symbol": "AAVE",
+          "eTokenAddr": "0x5DC63FbF4821efe74A7BB043AD35351C1F60bc87",
+          "eTokenBalance": "14.759069056952858461",
+          "eTokenBalanceUnderlying": "15.140020155221570667",
+          "dTokenAddr": "0x09eAEA2903fa53F845f73A0fd7b5a6A86eA27c8c",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.69514885213448422",
+          "borrowValue": "0.0",
+          "totalValue": "0.69514885213448422"
+        }
+      ]
+    }
+  },
+  "reserveLINK": {
+    "subaccountsTotalValue": "13.34629018953029732",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "13.34629018953029732",
+      "markets": [
+        {
+          "underlying": "0x514910771af9ca656af840dff83e8264ecf986ca",
+          "symbol": "LINK",
+          "eTokenAddr": "0x22784dd51676b5FB0E8362D187137f2ffFb9B848",
+          "eTokenBalance": "3160.140960804307787648",
+          "eTokenBalanceUnderlying": "3238.135693121875711052",
+          "dTokenAddr": "0x4A91CfA82503159626D28d387D32f0960370B9b5",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "13.34629018953029732",
+          "borrowValue": "0.0",
+          "totalValue": "13.34629018953029732"
+        }
+      ]
+    }
+  },
+  "reserve1INCH": {
+    "subaccountsTotalValue": "0.23401463167260198",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.23401463167260198",
+      "markets": [
+        {
+          "underlying": "0x111111111117dc0aa78b770fa6a738034120c302",
+          "symbol": "1INCH",
+          "eTokenAddr": "0xcA33358eE21dE338c13413fde211273565D38bfb",
+          "eTokenBalance": "773.199337656201888851",
+          "eTokenBalanceUnderlying": "790.613512396682357692",
+          "dTokenAddr": "0x7209Ec37a414fF269A069fdf302D2c4A9dCde714",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.23401463167260198",
+          "borrowValue": "0.0",
+          "totalValue": "0.23401463167260198"
+        }
+      ]
+    }
+  },
+  "reserveGRT": {
+    "subaccountsTotalValue": "4.276983332546289913",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "4.276983332546289913",
+      "markets": [
+        {
+          "underlying": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+          "symbol": "GRT",
+          "eTokenAddr": "0x7527aB44D17246e45dee859427749d0b3D581d79",
+          "eTokenBalance": "50243.227747835966293891",
+          "eTokenBalanceUnderlying": "51172.728370167763540921",
+          "dTokenAddr": "0x5bdBC7bD13BD35dc4AAa5F33cd8693AeF46A2B90",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "4.276983332546289913",
+          "borrowValue": "0.0",
+          "totalValue": "4.276983332546289913"
+        }
+      ]
+    }
+  },
+  "reserveSNX": {
+    "subaccountsTotalValue": "0.29430150375653347",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.29430150375653347",
+      "markets": [
+        {
+          "underlying": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+          "symbol": "SNX",
+          "eTokenAddr": "0xF87c31936BbE178bd054eD19AaaBf18A6A056214",
+          "eTokenBalance": "160.027326502574648539",
+          "eTokenBalanceUnderlying": "165.95438249108971845",
+          "dTokenAddr": "0x54B41f3877D1679ac20E7edB79664bd6Ac311a0D",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.29430150375653347",
+          "borrowValue": "0.0",
+          "totalValue": "0.29430150375653347"
+        }
+      ]
+    }
+  },
+  "reserveAXS": {
+    "subaccountsTotalValue": "0.229336214627451863",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.229336214627451863",
+      "markets": [
+        {
+          "underlying": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+          "symbol": "AXS",
+          "eTokenAddr": "0x912eD8bcb1957cB501924C3A45a6510df76B80d9",
+          "eTokenBalance": "43.761171852154562823",
+          "eTokenBalanceUnderlying": "46.303596358234959256",
+          "dTokenAddr": "0x0c5869746258FFAD99E7e61D5d240D1599496e68",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.229336214627451863",
+          "borrowValue": "0.0",
+          "totalValue": "0.229336214627451863"
+        }
+      ]
+    }
+  },
+  "reserveSHIB": {
+    "subaccountsTotalValue": "3.408347810025947749",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "3.408347810025947749",
+      "markets": [
+        {
+          "underlying": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+          "symbol": "SHIB",
+          "eTokenAddr": "0x2eE4ADbf628C52Bc396ce1344116962f4a2143E9",
+          "eTokenBalance": "477059791.436878242575240247",
+          "eTokenBalanceUnderlying": "506123036.058014763728210103",
+          "dTokenAddr": "0xB4509999Db185dF3d7f8DF1a39fbea9040DF8277",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "3.408347810025947749",
+          "borrowValue": "0.0",
+          "totalValue": "3.408347810025947749"
+        }
+      ]
+    }
+  },
+  "reserveagEUR": {
+    "subaccountsTotalValue": "15.236037119476487936",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "15.236037119476487936",
+      "markets": [
+        {
+          "underlying": "0x1a7e4e63778b4f12a199c062f3efdd288afcbce8",
+          "symbol": "agEUR",
+          "eTokenAddr": "0x64ad6d2472de5DDd3801fB4027C96c3ee7a7ee82",
+          "eTokenBalance": "22287.025036658391661475",
+          "eTokenBalanceUnderlying": "22491.632479796541759429",
+          "dTokenAddr": "0x979C7B4EC52A1FA089c7Bc1B9d5a917249f55Ce7",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "15.236037119476487936",
+          "borrowValue": "0.0",
+          "totalValue": "15.236037119476487936"
+        }
+      ]
+    }
+  },
+  "reservePUNK": {
+    "subaccountsTotalValue": "0.014646070705665749",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.014646070705665749",
+      "markets": [
+        {
+          "underlying": "0x269616d549d7e8eaa82dfb17028d0b212d11232a",
+          "symbol": "PUNK",
+          "eTokenAddr": "0xd08128BC62113Bfb3E1D9A0Dc0ee1f0Ffd2e45AC",
+          "eTokenBalance": "0.000227353797021107",
+          "eTokenBalanceUnderlying": "0.000227473923164883",
+          "dTokenAddr": "0x9cE4739Ff30B73Ee14832a8A80E06aa24a35eb69",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.014646070705665749",
+          "borrowValue": "0.0",
+          "totalValue": "0.014646070705665749"
+        }
+      ]
+    }
+  },
+  "reserveNMR": {
+    "subaccountsTotalValue": "0.000548438713357891",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000548438713357891",
+      "markets": [
+        {
+          "underlying": "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671",
+          "symbol": "NMR",
+          "eTokenAddr": "0xBEE7Dd5c54fC997D7aE871E1D3502782b8c55520",
+          "eTokenBalance": "0.051894202056019228",
+          "eTokenBalanceUnderlying": "0.051930566552210149",
+          "dTokenAddr": "0xFD858C93A9Dc0F4c45EbcE6c45A6333f129a18b9",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000548438713357891",
+          "borrowValue": "0.0",
+          "totalValue": "0.000548438713357891"
+        }
+      ]
+    }
+  },
+  "reservestETH": {
+    "subaccountsTotalValue": "0.674435682444273239",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.674435682444273239",
+      "markets": [
+        {
+          "underlying": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+          "symbol": "stETH",
+          "eTokenAddr": "0x570a7e6E75C8043bd75B574D47988Aa305873818",
+          "eTokenBalance": "0.653112433805581799",
+          "eTokenBalanceUnderlying": "0.677020739313442106",
+          "dTokenAddr": "0x8f222fC08bD508571FcE098cAB5Bb4095346a561",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.674435682444273239",
+          "borrowValue": "0.0",
+          "totalValue": "0.674435682444273239"
+        }
+      ]
+    }
+  },
+  "reserveRBN": {
+    "subaccountsTotalValue": "11.81908737597273056",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "11.81908737597273056",
+      "markets": [
+        {
+          "underlying": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+          "symbol": "RBN",
+          "eTokenAddr": "0xfa327EB9111a5283167734efb637DB46C990A27b",
+          "eTokenBalance": "84875.49478655103931858",
+          "eTokenBalanceUnderlying": "90460.507990390884069917",
+          "dTokenAddr": "0xa950AAD47F850d49714b226CBf0cF259213E10D8",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "11.81908737597273056",
+          "borrowValue": "0.0",
+          "totalValue": "11.81908737597273056"
+        }
+      ]
+    }
+  },
+  "reserveCADC": {
+    "subaccountsTotalValue": "0.000202175097573681",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000202175097573681",
+      "markets": [
+        {
+          "underlying": "0xcadc0acd4b445166f12d2c07eac6e2544fbe2eef",
+          "symbol": "CADC",
+          "eTokenAddr": "0x075C3a5678Cd8B30157D541769b8D41893Cb6D91",
+          "eTokenBalance": "0.449102952070275385",
+          "eTokenBalanceUnderlying": "0.449301229839350322",
+          "dTokenAddr": "0xD2872d9cd73912D6E3EC4295291Ff6231637da0C",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000202175097573681",
+          "borrowValue": "0.0",
+          "totalValue": "0.000202175097573681"
+        }
+      ]
+    }
+  },
+  "reserveFRAX": {
+    "subaccountsTotalValue": "0.261124191158605797",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.261124191158605797",
+      "markets": [
+        {
+          "underlying": "0x853d955acef822db058eb8505911ed77f175b99e",
+          "symbol": "FRAX",
+          "eTokenAddr": "0x5484451A88a35cd0878A1bE177435Ca8A0E4054E",
+          "eTokenBalance": "414.005292119362557074",
+          "eTokenBalanceUnderlying": "419.355832320312587267",
+          "dTokenAddr": "0x104aCFb82DB5F30C607Dd0a9e86dBBC0F37ce1db",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.261124191158605797",
+          "borrowValue": "0.0",
+          "totalValue": "0.261124191158605797"
+        }
+      ]
+    }
+  },
+  "reserveBUSD": {
+    "subaccountsTotalValue": "0.067262360928175749",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.067262360928175749",
+      "markets": [
+        {
+          "underlying": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+          "symbol": "BUSD",
+          "eTokenAddr": "0xFfe5396C1efd289D207fc7133A594c5e8Fef25b3",
+          "eTokenBalance": "105.071718075748317134",
+          "eTokenBalanceUnderlying": "106.397808674532117172",
+          "dTokenAddr": "0x3A4DCF4694Bcc36A17C74f4868103Cef5cFd408e",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.067262360928175749",
+          "borrowValue": "0.0",
+          "totalValue": "0.067262360928175749"
+        }
+      ]
+    }
+  },
+  "reserveINDEX": {
+    "subaccountsTotalValue": "0.000000000000001217",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000000000000001217",
+      "markets": [
+        {
+          "underlying": "0x0954906da0bf32d5479e25f46056d22f08464cab",
+          "symbol": "INDEX",
+          "eTokenAddr": "0x6a8156fF97ee7E3cD56eb95835BE757F5b7d5657",
+          "eTokenBalance": "0.000000000001",
+          "eTokenBalanceUnderlying": "0.000000000001",
+          "dTokenAddr": "0x8611d41B32ecD7dE0Ed1d013231159930b9D8c7E",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000000000000001217",
+          "borrowValue": "0.0",
+          "totalValue": "0.000000000000001217"
+        }
+      ]
+    }
+  },
+  "reserveDFI": {
+    "subaccountsTotalValue": "0.000341198963973555",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000341198963973555",
+      "markets": [
+        {
+          "underlying": "0x8fc8f8269ebca376d046ce292dc7eac40c8d358a",
+          "symbol": "DFI",
+          "eTokenAddr": "0xAb4a0a6B072AE22A5aE7c1dfe4646CD3E3a13cE1",
+          "eTokenBalance": "1.018807252658616303",
+          "eTokenBalanceUnderlying": "1.019342",
+          "dTokenAddr": "0x8F3471E3ae9303F086e95FEB3087CF91943b8D77",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000341198963973555",
+          "borrowValue": "0.0",
+          "totalValue": "0.000341198963973555"
+        }
+      ]
+    }
+  },
+  "reserveAPE": {
+    "subaccountsTotalValue": "0.247855855104703032",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.247855855104703032",
+      "markets": [
+        {
+          "underlying": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+          "symbol": "APE",
+          "eTokenAddr": "0xbAeb6b7aA164caeA6A02DeB12167744453F9f30b",
+          "eTokenBalance": "78.633689276949835489",
+          "eTokenBalanceUnderlying": "91.540051231144265245",
+          "dTokenAddr": "0x91243F764A6975b127816060FdeD7370B4611c53",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.247855855104703032",
+          "borrowValue": "0.0",
+          "totalValue": "0.247855855104703032"
+        }
+      ]
+    }
+  },
+  "reserveILV": {
+    "subaccountsTotalValue": "0.003589026221999901",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.003589026221999901",
+      "markets": [
+        {
+          "underlying": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+          "symbol": "ILV",
+          "eTokenAddr": "0xE60e6cF1252c7D39645f5F4C83a7b8BE95E7812D",
+          "eTokenBalance": "0.081993134748111402",
+          "eTokenBalanceUnderlying": "0.084080948630624405",
+          "dTokenAddr": "0xaCB03Ef873F6a91E2AAEd88036F496829d8D2d16",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.003589026221999901",
+          "borrowValue": "0.0",
+          "totalValue": "0.003589026221999901"
+        }
+      ]
+    }
+  },
+  "reserveCVX": {
+    "subaccountsTotalValue": "1.310325832079090768",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "1.310325832079090768",
+      "markets": [
+        {
+          "underlying": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+          "symbol": "CVX",
+          "eTokenAddr": "0xe41FA3E32F7A3148217724A9F8D096f4F1ddD182",
+          "eTokenBalance": "352.116731721039450866",
+          "eTokenBalanceUnderlying": "377.956635918951961976",
+          "dTokenAddr": "0xB6f48177a096563F861787cFAFE8243c44FEF592",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "1.310325832079090768",
+          "borrowValue": "0.0",
+          "totalValue": "1.310325832079090768"
+        }
+      ]
+    }
+  },
+  "reserveCRV": {
+    "subaccountsTotalValue": "0.006626150737289781",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.006626150737289781",
+      "markets": [
+        {
+          "underlying": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+          "symbol": "CRV",
+          "eTokenAddr": "0xCcB53898cF395939B5648Df529b7A77A6BcC43B0",
+          "eTokenBalance": "11.203365618590257494",
+          "eTokenBalanceUnderlying": "11.258529100504009321",
+          "dTokenAddr": "0xb4BBf2F115184A700E6ffaE61d56B550be02ADb8",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.006626150737289781",
+          "borrowValue": "0.0",
+          "totalValue": "0.006626150737289781"
+        }
+      ]
+    }
+  },
+  "reserveFLX": {
+    "subaccountsTotalValue": "0.000067238730333335",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000067238730333335",
+      "markets": [
+        {
+          "underlying": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+          "symbol": "FLX",
+          "eTokenAddr": "0x4F1D82B334760b174182E54714d8045aFaEFCEeD",
+          "eTokenBalance": "0.004920336741454653",
+          "eTokenBalanceUnderlying": "0.004920349212224135",
+          "dTokenAddr": "0x7Ac3Cf19ad3b1f7bf45933dA064Ce734Ce284d3f",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000067238730333335",
+          "borrowValue": "0.0",
+          "totalValue": "0.000067238730333335"
+        }
+      ]
+    }
+  },
+  "reservePERP": {
+    "subaccountsTotalValue": "0.02595399701177272",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.02595399701177272",
+      "markets": [
+        {
+          "underlying": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+          "symbol": "PERP",
+          "eTokenAddr": "0x391b6F14Ed4D49C9D217A819118Ef379613d37Dd",
+          "eTokenBalance": "49.86037193378732708",
+          "eTokenBalanceUnderlying": "50.600074272233982851",
+          "dTokenAddr": "0x5AF49233283Bee3406dc254FE90358a5df241731",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.02595399701177272",
+          "borrowValue": "0.0",
+          "totalValue": "0.02595399701177272"
+        }
+      ]
+    }
+  },
+  "reserveMPL": {
+    "subaccountsTotalValue": "0.000070051974345343",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000070051974345343",
+      "markets": [
+        {
+          "underlying": "0x33349b282065b0284d756f0577fb39c158f935e6",
+          "symbol": "MPL",
+          "eTokenAddr": "0xebC95Df6DD5278Ee8C49914ec67bb42e26Cd88E4",
+          "eTokenBalance": "0.024602326413237968",
+          "eTokenBalanceUnderlying": "0.024670025834695018",
+          "dTokenAddr": "0x853f65b41d6cDE277DEd6399384De0e2625548C4",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000070051974345343",
+          "borrowValue": "0.0",
+          "totalValue": "0.000070051974345343"
+        }
+      ]
+    }
+  },
+  "reserveUBI": {
+    "subaccountsTotalValue": "0.000000000402528295",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000000000402528295",
+      "markets": [
+        {
+          "underlying": "0xdd1ad9a21ce722c151a836373babe42c868ce9a4",
+          "symbol": "UBI",
+          "eTokenAddr": "0xa5C40D4e4D8328dEa1Bb13931e9d4dA1Da506D84",
+          "eTokenBalance": "0.000244933932049326",
+          "eTokenBalanceUnderlying": "0.000244934030406332",
+          "dTokenAddr": "0x68D835B5302C6027062884f9Acd6671e791A0288",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000000000402528295",
+          "borrowValue": "0.0",
+          "totalValue": "0.000000000402528295"
+        }
+      ]
+    }
+  },
+  "reserveMIM": {
+    "subaccountsTotalValue": "0.224843415954241066",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.224843415954241066",
+      "markets": [
+        {
+          "underlying": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+          "symbol": "MIM",
+          "eTokenAddr": "0xcf31501179eef59c8B6722e99489f7035b53F83E",
+          "eTokenBalance": "344.712569940450776071",
+          "eTokenBalanceUnderlying": "359.174317077839256686",
+          "dTokenAddr": "0x6dcA4f0E1CBE81d480515b249C6E7826EECdBF52",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.224843415954241066",
+          "borrowValue": "0.0",
+          "totalValue": "0.224843415954241066"
+        }
+      ]
+    }
+  },
+  "reserveMKR\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000": {
+    "subaccountsTotalValue": "0.359442613265411029",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.359442613265411029",
+      "markets": [
+        {
+          "underlying": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+          "symbol": "MKR\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+          "eTokenAddr": "0x50552EC440099672250bD5F335EF70E1202D0a42",
+          "eTokenBalance": "0.650394440713653874",
+          "eTokenBalanceUnderlying": "0.660001922482807416",
+          "dTokenAddr": "0x920b623083356f174c919F64cad6eF9CaF1De26a",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.359442613265411029",
+          "borrowValue": "0.0",
+          "totalValue": "0.359442613265411029"
+        }
+      ]
+    }
+  },
+  "reserveALCX": {
+    "subaccountsTotalValue": "0.004926517398460886",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.004926517398460886",
+      "markets": [
+        {
+          "underlying": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+          "symbol": "ALCX",
+          "eTokenAddr": "0x60208f721a76a8F272326871D1BC8fB28a694008",
+          "eTokenBalance": "0.370492463315832959",
+          "eTokenBalanceUnderlying": "0.376956442607808361",
+          "dTokenAddr": "0xf5142abDF63a9E3Ba180548E175e3411bd1f4247",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.004926517398460886",
+          "borrowValue": "0.0",
+          "totalValue": "0.004926517398460886"
+        }
+      ]
+    }
+  },
+  "reserveFPIS": {
+    "subaccountsTotalValue": "0.000000000000001305",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000000000000001305",
+      "markets": [
+        {
+          "underlying": "0xc2544a32872a91f4a553b404c6950e89de901fdb",
+          "symbol": "FPIS",
+          "eTokenAddr": "0x4DC4B210fAd381c0e24eE689a689cbE956CD6B9b",
+          "eTokenBalance": "0.000000000001",
+          "eTokenBalanceUnderlying": "0.000000000001",
+          "dTokenAddr": "0x5edAf0FF516f5B1764eA48562Fe946f2Fb53CE07",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000000000000001305",
+          "borrowValue": "0.0",
+          "totalValue": "0.000000000000001305"
+        }
+      ]
+    }
+  },
+  "reserveSOCKS": {
+    "subaccountsTotalValue": "0.006762809597028715",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.006762809597028715",
+      "markets": [
+        {
+          "underlying": "0x23b608675a2b2fb1890d3abbd85c5775c51691d5",
+          "symbol": "SOCKS",
+          "eTokenAddr": "0x898875e7766E0a64f9c71339bA2b53fb5C50c931",
+          "eTokenBalance": "0.000326960480277224",
+          "eTokenBalanceUnderlying": "0.000328469812416464",
+          "dTokenAddr": "0xB84558Ca934009095f32C861cF6e5cE8cD703DCf",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.006762809597028715",
+          "borrowValue": "0.0",
+          "totalValue": "0.006762809597028715"
+        }
+      ]
+    }
+  },
+  "reservewNXM": {
+    "subaccountsTotalValue": "0.084838063105721105",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.084838063105721105",
+      "markets": [
+        {
+          "underlying": "0x0d438f3b5175bebc262bf23753c1e53d03432bde",
+          "symbol": "wNXM",
+          "eTokenAddr": "0xD440EE97523C2c29b681E096dFA01FE0333069a5",
+          "eTokenBalance": "6.08305291906233038",
+          "eTokenBalanceUnderlying": "6.547039274166529449",
+          "dTokenAddr": "0xACdF0292175c1B3C9e5B869E29cfA8E48817eE5d",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.084838063105721105",
+          "borrowValue": "0.0",
+          "totalValue": "0.084838063105721105"
+        }
+      ]
+    }
+  },
+  "reserveENS": {
+    "subaccountsTotalValue": "13.686835723761170103",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "13.686835723761170103",
+      "markets": [
+        {
+          "underlying": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+          "symbol": "ENS",
+          "eTokenAddr": "0x323aa5Ff5Cc6593dB46c93b20cCFDD06412baF77",
+          "eTokenBalance": "1637.440918808106340752",
+          "eTokenBalanceUnderlying": "1683.815595518155094216",
+          "dTokenAddr": "0xe4C391a5ff7F947D6C4E2eeCEe15B65c79E94e39",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "13.686835723761170103",
+          "borrowValue": "0.0",
+          "totalValue": "13.686835723761170103"
+        }
+      ]
+    }
+  },
+  "reserveLRC": {
+    "subaccountsTotalValue": "0.002617081356643835",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.002617081356643835",
+      "markets": [
+        {
+          "underlying": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+          "symbol": "LRC",
+          "eTokenAddr": "0x135fF7C49d6944F5d60AA68A17ae3b0BD9f3875d",
+          "eTokenBalance": "13.214332457842862267",
+          "eTokenBalanceUnderlying": "13.33165228951259184",
+          "dTokenAddr": "0x2819de5ab98f555D2f165EeFcBD912a26DBf43fE",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.002617081356643835",
+          "borrowValue": "0.0",
+          "totalValue": "0.002617081356643835"
+        }
+      ]
+    }
+  },
+  "reserveBADGER": {
+    "subaccountsTotalValue": "0.846382438620238987",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.846382438620238987",
+      "markets": [
+        {
+          "underlying": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+          "symbol": "BADGER",
+          "eTokenAddr": "0x7491989cFBC6Da74141BC8cd187E480c21ECE169",
+          "eTokenBalance": "464.944430139828884284",
+          "eTokenBalanceUnderlying": "468.919413132661845575",
+          "dTokenAddr": "0xF7a4687e931eBb9077595cC4C095c1A00267BD83",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.846382438620238987",
+          "borrowValue": "0.0",
+          "totalValue": "0.846382438620238987"
+        }
+      ]
+    }
+  },
+  "reserveKP3R": {
+    "subaccountsTotalValue": "0.000623061490023213",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000623061490023213",
+      "markets": [
+        {
+          "underlying": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+          "symbol": "KP3R",
+          "eTokenAddr": "0xf0DDC82a91be6E6020ae6bb0506f2890ACECe1A7",
+          "eTokenBalance": "0.01238527733551615",
+          "eTokenBalanceUnderlying": "0.01238729761166245",
+          "dTokenAddr": "0x404b6aaE6B1fc5a60618C5581AE374aF8E221e17",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000623061490023213",
+          "borrowValue": "0.0",
+          "totalValue": "0.000623061490023213"
+        }
+      ]
+    }
+  },
+  "reserveFXS": {
+    "subaccountsTotalValue": "0.039127944166393338",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.039127944166393338",
+      "markets": [
+        {
+          "underlying": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+          "symbol": "FXS",
+          "eTokenAddr": "0x416AfFCCA4D1e8D30516E311E893ed143C373A2C",
+          "eTokenBalance": "7.228104172027816901",
+          "eTokenBalanceUnderlying": "7.384010639191590204",
+          "dTokenAddr": "0x6FfB2Fc9741b6E7a087940700e15B6290FE3d975",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.039127944166393338",
+          "borrowValue": "0.0",
+          "totalValue": "0.039127944166393338"
+        }
+      ]
+    }
+  },
+  "reserveVEGA": {
+    "subaccountsTotalValue": "14.16532354988035959",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "14.16532354988035959",
+      "markets": [
+        {
+          "underlying": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+          "symbol": "VEGA",
+          "eTokenAddr": "0xd99ae587346801F6038a21e870D929c4A493De3A",
+          "eTokenBalance": "17560.278931422089445436",
+          "eTokenBalanceUnderlying": "19012.213711219180790452",
+          "dTokenAddr": "0x82dF926D7aEDED449d56ab0ED69F0f2F9B50c935",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "14.16532354988035959",
+          "borrowValue": "0.0",
+          "totalValue": "14.16532354988035959"
+        }
+      ]
+    }
+  },
+  "reserveANT": {
+    "subaccountsTotalValue": "0.010365905999442481",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.010365905999442481",
+      "markets": [
+        {
+          "underlying": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+          "symbol": "ANT",
+          "eTokenAddr": "0x0a2A3b23d72959b19AE6Aa18A177804C9969E1E0",
+          "eTokenBalance": "7.125220684136785846",
+          "eTokenBalanceUnderlying": "7.17649880262291426",
+          "dTokenAddr": "0x8C96Ac82c3b2468502582c3773CBaD228Ae80b36",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.010365905999442481",
+          "borrowValue": "0.0",
+          "totalValue": "0.010365905999442481"
+        }
+      ]
+    }
+  },
+  "reserveGUSD": {
+    "subaccountsTotalValue": "0.029110448300093674",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.029110448300093674",
+      "markets": [
+        {
+          "underlying": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+          "symbol": "GUSD",
+          "eTokenAddr": "0x3Feb14fbF01086D057794F54CA0274eD541Ec362",
+          "eTokenBalance": "46.070123618674591905",
+          "eTokenBalanceUnderlying": "46.31",
+          "dTokenAddr": "0xD0C4833bAe24Ada5a570bc1Ac46FE9032894076a",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.029110448300093674",
+          "borrowValue": "0.0",
+          "totalValue": "0.029110448300093674"
+        }
+      ]
+    }
+  },
+  "reserveLQTY": {
+    "subaccountsTotalValue": "0.15285025394077748",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.15285025394077748",
+      "markets": [
+        {
+          "underlying": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+          "symbol": "LQTY",
+          "eTokenAddr": "0x3591D83B699d867ca8d3046DA51F2a3d24218941",
+          "eTokenBalance": "99.18445557842125199",
+          "eTokenBalanceUnderlying": "99.551936944438951837",
+          "dTokenAddr": "0xb0a31aA50FCc19111a4fFD9BF645f7bBA5f9c644",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.15285025394077748",
+          "borrowValue": "0.0",
+          "totalValue": "0.15285025394077748"
+        }
+      ]
+    }
+  },
+  "reserveYFI": {
+    "subaccountsTotalValue": "0.391296856108006151",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.391296856108006151",
+      "markets": [
+        {
+          "underlying": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+          "symbol": "YFI",
+          "eTokenAddr": "0xc2FD2e2EB89b9Eaee18CE40071c77Bec2E8d3C6F",
+          "eTokenBalance": "0.07512226455085103",
+          "eTokenBalanceUnderlying": "0.07582208610481115",
+          "dTokenAddr": "0x076EE083C5248c102406D4B7e038e204ADF83C66",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.391296856108006151",
+          "borrowValue": "0.0",
+          "totalValue": "0.391296856108006151"
+        }
+      ]
+    }
+  },
+  "reserveWETH": {
+    "subaccountsTotalValue": "342.988745867458658085",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "342.988745867458658085",
+      "markets": [
+        {
+          "underlying": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+          "symbol": "WETH",
+          "eTokenAddr": "0x1b808F49ADD4b8C6b5117d9681cF7312Fcf0dC1D",
+          "eTokenBalance": "334.055635214768353051",
+          "eTokenBalanceUnderlying": "342.988745867458658085",
+          "dTokenAddr": "0x62e28f054efc24b26A794F5C1249B6349454352C",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "342.988745867458658085",
+          "borrowValue": "0.0",
+          "totalValue": "342.988745867458658085"
+        }
+      ]
+    }
+  },
+  "reserveOHM": {
+    "subaccountsTotalValue": "0.007764475304878241",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.007764475304878241",
+      "markets": [
+        {
+          "underlying": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+          "symbol": "OHM",
+          "eTokenAddr": "0x8A6622D293d5187A39F8dBa7F6f1AE7fA527483B",
+          "eTokenBalance": "1.209395509851211282",
+          "eTokenBalanceUnderlying": "1.209543347",
+          "dTokenAddr": "0x1CD63085053f3258B691cedfc5aBfD62bB4bc05a",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.007764475304878241",
+          "borrowValue": "0.0",
+          "totalValue": "0.007764475304878241"
+        }
+      ]
+    }
+  },
+  "reservewstETH": {
+    "subaccountsTotalValue": "81.421080267237596399",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "81.421080267237596399",
+      "markets": [
+        {
+          "underlying": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+          "symbol": "wstETH",
+          "eTokenAddr": "0xbd1bd5C956684f7EB79DA40f582cbE1373A1D593",
+          "eTokenBalance": "72.543599445524591133",
+          "eTokenBalanceUnderlying": "73.374043979524837742",
+          "dTokenAddr": "0x436548baAb5Ec4D79F669D1b9506D67e98927aF7",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "81.421080267237596399",
+          "borrowValue": "0.0",
+          "totalValue": "81.421080267237596399"
+        }
+      ]
+    }
+  },
+  "reserveCOMP": {
+    "subaccountsTotalValue": "0.694149383286488058",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.694149383286488058",
+      "markets": [
+        {
+          "underlying": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+          "symbol": "COMP",
+          "eTokenAddr": "0xbdbF53C76D7B63f316e013350041F20640c9A253",
+          "eTokenBalance": "25.359456592156391316",
+          "eTokenBalanceUnderlying": "26.035039191375423248",
+          "dTokenAddr": "0x719CBD291478167D3971de75C18455334c68c2C5",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.694149383286488058",
+          "borrowValue": "0.0",
+          "totalValue": "0.694149383286488058"
+        }
+      ]
+    }
+  },
+  "reserveMTA": {
+    "subaccountsTotalValue": "0.000000000000000018",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000000000000000018",
+      "markets": [
+        {
+          "underlying": "0xa3bed4e1c75d00fa6f4e5e6922db7261b5e9acd2",
+          "symbol": "MTA",
+          "eTokenAddr": "0xAf637D698eA03cC37F6332ef9645d30e7ddA2712",
+          "eTokenBalance": "0.000000000001",
+          "eTokenBalanceUnderlying": "0.000000000001",
+          "dTokenAddr": "0xfBC5D9033b08110aB65cEFbF59fdF240C1D35E3c",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000000000000000018",
+          "borrowValue": "0.0",
+          "totalValue": "0.000000000000000018"
+        }
+      ]
+    }
+  },
+  "reserveENJ": {
+    "subaccountsTotalValue": "0.001573841822757444",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.001573841822757444",
+      "markets": [
+        {
+          "underlying": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+          "symbol": "ENJ",
+          "eTokenAddr": "0x1d777FEC5aB4F211eB371a6eb02B541311a9832c",
+          "eTokenBalance": "6.541892182048551846",
+          "eTokenBalanceUnderlying": "6.569296777824392424",
+          "dTokenAddr": "0x727a83ce814040cA896CD6F61be13d76d706d13c",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.001573841822757444",
+          "borrowValue": "0.0",
+          "totalValue": "0.001573841822757444"
+        }
+      ]
+    }
+  },
+  "reserveIMX": {
+    "subaccountsTotalValue": "0.014432785437663649",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.014432785437663649",
+      "markets": [
+        {
+          "underlying": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+          "symbol": "IMX",
+          "eTokenAddr": "0x1e083AcFa20f3aeAB39e93C504F54e31a1Ab3F9D",
+          "eTokenBalance": "24.406771747849936827",
+          "eTokenBalanceUnderlying": "24.800516131995165966",
+          "dTokenAddr": "0xfd2f0954c635298f85B18fC9899747247E22fF32",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.014432785437663649",
+          "borrowValue": "0.0",
+          "totalValue": "0.014432785437663649"
+        }
+      ]
+    }
+  },
+  "reservecbETH": {
+    "subaccountsTotalValue": "0.790889915320892386",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.790889915320892386",
+      "markets": [
+        {
+          "underlying": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+          "symbol": "cbETH",
+          "eTokenAddr": "0x04E47b672A68d6ad4f7989BD169d3755ae1Cae1B",
+          "eTokenBalance": "0.787753756253617382",
+          "eTokenBalanceUnderlying": "0.789483338429130382",
+          "dTokenAddr": "0xD70F19D09d9Db069C067fb25d8d1Bc36dfa6305F",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.790889915320892386",
+          "borrowValue": "0.0",
+          "totalValue": "0.790889915320892386"
+        }
+      ]
+    }
+  },
+  "reserveMATIC": {
+    "subaccountsTotalValue": "9.103415150624809381",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "9.103415150624809381",
+      "markets": [
+        {
+          "underlying": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+          "symbol": "MATIC",
+          "eTokenAddr": "0x315bfbFBb8421fe80A83358020F169f867bb9716",
+          "eTokenBalance": "12584.037827886618958524",
+          "eTokenBalanceUnderlying": "13066.297282330903889017",
+          "dTokenAddr": "0x146f67bD771B1E666118f06248e1DE7c929B1df4",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "9.103415150624809381",
+          "borrowValue": "0.0",
+          "totalValue": "9.103415150624809381"
+        }
+      ]
+    }
+  },
+  "reserveBAL": {
+    "subaccountsTotalValue": "0.003108792440946301",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.003108792440946301",
+      "markets": [
+        {
+          "underlying": "0xba100000625a3754423978a60c9317c58a424e3d",
+          "symbol": "BAL",
+          "eTokenAddr": "0x3028BE240465969e4c81Fc07A7Bc4140f42953a8",
+          "eTokenBalance": "0.775584145801668112",
+          "eTokenBalanceUnderlying": "0.781223415744565472",
+          "dTokenAddr": "0xa1652a01a339aEDd3AFbEC5ab6875c48d23532A0",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.003108792440946301",
+          "borrowValue": "0.0",
+          "totalValue": "0.003108792440946301"
+        }
+      ]
+    }
+  },
+  "reserveDAI": {
+    "subaccountsTotalValue": "123.153335018007615512",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "123.153335018007615512",
+      "markets": [
+        {
+          "underlying": "0x6b175474e89094c44da98b954eedeac495271d0f",
+          "symbol": "DAI",
+          "eTokenAddr": "0xe025E3ca2bE02316033184551D4d3Aa22024D9DC",
+          "eTokenBalance": "192726.700674319929090422",
+          "eTokenBalanceUnderlying": "196980.248528746738402891",
+          "dTokenAddr": "0x6085Bc95F506c326DCBCD7A6dd6c79FBc18d4686",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "123.153335018007615512",
+          "borrowValue": "0.0",
+          "totalValue": "123.153335018007615512"
+        }
+      ]
+    }
+  },
+  "reserverETH": {
+    "subaccountsTotalValue": "0.000000000001066503",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000000000001066503",
+      "markets": [
+        {
+          "underlying": "0xae78736cd615f374d3085123a210448e74fc6393",
+          "symbol": "rETH",
+          "eTokenAddr": "0xf92230094736e502C62c35a38BE2B6809b7bB5AD",
+          "eTokenBalance": "0.000000000001",
+          "eTokenBalanceUnderlying": "0.000000000001000003",
+          "dTokenAddr": "0xaa297ECb7CD845c59B16CF63b309e7C02421256d",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000000000001066503",
+          "borrowValue": "0.0",
+          "totalValue": "0.000000000001066503"
+        }
+      ]
+    }
+  },
+  "reserveMILADY": {
+    "subaccountsTotalValue": "0.068823181649196469",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.068823181649196469",
+      "markets": [
+        {
+          "underlying": "0x227c7df69d3ed1ae7574a1a7685fded90292eb48",
+          "symbol": "MILADY",
+          "eTokenAddr": "0x26C70a14cE6bF73cE9DC193dBb03B62faBE1F775",
+          "eTokenBalance": "0.056399257543428083",
+          "eTokenBalanceUnderlying": "0.056444087426515805",
+          "dTokenAddr": "0xC4eD12aBB7dCeCc0c1DC420EBF276311DE56dE3F",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.068823181649196469",
+          "borrowValue": "0.0",
+          "totalValue": "0.068823181649196469"
+        }
+      ]
+    }
+  },
+  "reserveGTC": {
+    "subaccountsTotalValue": "0.39162853385193014",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.39162853385193014",
+      "markets": [
+        {
+          "underlying": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+          "symbol": "GTC",
+          "eTokenAddr": "0xe63f356A1b5806f07b1cfD3A7Cc62Aee659cf677",
+          "eTokenBalance": "358.982116172837841785",
+          "eTokenBalanceUnderlying": "377.023422853066245403",
+          "dTokenAddr": "0x50BFD0b0dfBA6Fdc54A726Cb7c2b102Bf4359553",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.39162853385193014",
+          "borrowValue": "0.0",
+          "totalValue": "0.39162853385193014"
+        }
+      ]
+    }
+  },
+  "reserveRPL": {
+    "subaccountsTotalValue": "0.258718197054186593",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.258718197054186593",
+      "markets": [
+        {
+          "underlying": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+          "symbol": "RPL",
+          "eTokenAddr": "0x5b37264236817B939BA176D2229BB068E87450c1",
+          "eTokenBalance": "10.917488770831111397",
+          "eTokenBalanceUnderlying": "11.01322249159221814",
+          "dTokenAddr": "0xdC4e3E1Bc00e1CbA7AC2e0DC8D2A23E4Cc1C9861",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.258718197054186593",
+          "borrowValue": "0.0",
+          "totalValue": "0.258718197054186593"
+        }
+      ]
+    }
+  },
+  "reserveLDO": {
+    "subaccountsTotalValue": "22.036601263489891876",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "22.036601263489891876",
+      "markets": [
+        {
+          "underlying": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+          "symbol": "LDO",
+          "eTokenAddr": "0xF1300d5c07A08162731C5E8188636699Dfb74F78",
+          "eTokenBalance": "13711.543578579733781997",
+          "eTokenBalanceUnderlying": "13921.125027343307524145",
+          "dTokenAddr": "0x2f5f31F865B870e05864c3bEa57f7c669320a75c",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "22.036601263489891876",
+          "borrowValue": "0.0",
+          "totalValue": "22.036601263489891876"
+        }
+      ]
+    }
+  },
+  "reserveoSQTH": {
+    "subaccountsTotalValue": "1.372258333612474878",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "1.372258333612474878",
+      "markets": [
+        {
+          "underlying": "0xf1b99e3e573a1a9c5e6b2ce818b617f0e664e86b",
+          "symbol": "oSQTH",
+          "eTokenAddr": "0xe2322F73fDF8EE688B1464A19E539B599d43d1B7",
+          "eTokenBalance": "22.737247204125211768",
+          "eTokenBalanceUnderlying": "23.682002959530095642",
+          "dTokenAddr": "0xc39C60De6aBc205E1779594d152bdBd9AbFfBc2D",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "1.372258333612474878",
+          "borrowValue": "0.0",
+          "totalValue": "1.372258333612474878"
+        }
+      ]
+    }
+  },
+  "reserveEUL": {
+    "subaccountsTotalValue": "25.664010383225833201",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "25.664010383225833201",
+      "markets": [
+        {
+          "underlying": "0xd9fcd98c322942075a5c3860693e9f4f03aae07b",
+          "symbol": "EUL",
+          "eTokenAddr": "0x198472C9e552c2aFc1B096D4f1A35c08A52ff100",
+          "eTokenBalance": "12074.318942268026673577",
+          "eTokenBalanceUnderlying": "12685.050929240540517223",
+          "dTokenAddr": "0xB6A072Cc8786485aBF012D8c2763721B34b94c10",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "25.664010383225833201",
+          "borrowValue": "0.0",
+          "totalValue": "25.664010383225833201"
+        }
+      ]
+    }
+  },
+  "reserveSOS": {
+    "subaccountsTotalValue": "0.000099682942759607",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000099682942759607",
+      "markets": [
+        {
+          "underlying": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+          "symbol": "SOS",
+          "eTokenAddr": "0x2cB3229bcd6BbedCa557ff9767d43eC41059E198",
+          "eTokenBalance": "1133626.818389288693571291",
+          "eTokenBalanceUnderlying": "1136684.431583363318657653",
+          "dTokenAddr": "0x99505C70c01dF9f0CEFDB59ac5AdDaD19A984335",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000099682942759607",
+          "borrowValue": "0.0",
+          "totalValue": "0.000099682942759607"
+        }
+      ]
+    }
+  },
+  "reserveIDLE": {
+    "subaccountsTotalValue": "0.000489882084549089",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000489882084549089",
+      "markets": [
+        {
+          "underlying": "0x875773784af8135ea0ef43b5a374aad105c5d39e",
+          "symbol": "IDLE",
+          "eTokenAddr": "0x36374F4E1cB1F771C11ef080fB283772A3F36020",
+          "eTokenBalance": "1.686398214989448467",
+          "eTokenBalanceUnderlying": "1.686654468600324745",
+          "dTokenAddr": "0x78cE8cEf9419518056e2917e9441B5a0a0e02b79",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000489882084549089",
+          "borrowValue": "0.0",
+          "totalValue": "0.000489882084549089"
+        }
+      ]
+    }
+  },
+  "reservecETH": {
+    "subaccountsTotalValue": "0.0",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.0",
+      "markets": [
+        {
+          "underlying": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+          "symbol": "cETH",
+          "eTokenAddr": "0xb7eCF9a9eEde0c8Da424298c79DA77204240C003",
+          "eTokenBalance": "0.000000000001",
+          "eTokenBalanceUnderlying": "0.0",
+          "dTokenAddr": "0x2f0374a93e5511ed53e8D1A425d92a2F11f4826C",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.0",
+          "borrowValue": "0.0",
+          "totalValue": "0.0"
+        }
+      ]
+    }
+  },
+  "reserveDYDX": {
+    "subaccountsTotalValue": "0.013438355736592748",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.013438355736592748",
+      "markets": [
+        {
+          "underlying": "0x92d6c1e31e14520e676a687f0a93788b716beff5",
+          "symbol": "DYDX",
+          "eTokenAddr": "0x33C43dd27cc7b7050c1061af8eAAEffCBD09d2Fd",
+          "eTokenBalance": "9.78473510236319356",
+          "eTokenBalanceUnderlying": "9.934637911771776555",
+          "dTokenAddr": "0x731Fe8180A27EECc30B1abdF9B72E591fa2a0a57",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.013438355736592748",
+          "borrowValue": "0.0",
+          "totalValue": "0.013438355736592748"
+        }
+      ]
+    }
+  },
+  "reserveETH2x-FLI": {
+    "subaccountsTotalValue": "0.00635377643616529",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.00635377643616529",
+      "markets": [
+        {
+          "underlying": "0xaa6e8127831c9de45ae56bb1b0d4d4da6e5665bd",
+          "symbol": "ETH2x-FLI",
+          "eTokenAddr": "0xA04DdDD0e5e83A0b16f1EaD84E29F18E135a4bCA",
+          "eTokenBalance": "1.049536239772779364",
+          "eTokenBalanceUnderlying": "1.051101485928072128",
+          "dTokenAddr": "0xc162a399bB6F610281dB22f3F0A03D5c2A7A2705",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.00635377643616529",
+          "borrowValue": "0.0",
+          "totalValue": "0.00635377643616529"
+        }
+      ]
+    }
+  },
+  "reserveOS": {
+    "subaccountsTotalValue": "0.000311230128315338",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000311230128315338",
+      "markets": [
+        {
+          "underlying": "0x6100dd79fcaa88420750dcee3f735d168abcb771",
+          "symbol": "OS",
+          "eTokenAddr": "0x2d3244860bc773A76751bc6Cc6a1939842b3388B",
+          "eTokenBalance": "0.098718453114990564",
+          "eTokenBalanceUnderlying": "0.098749795825331406",
+          "dTokenAddr": "0xFeFC1Ff9F4262DD66123Bd2997c68A4F2626b4f8",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000311230128315338",
+          "borrowValue": "0.0",
+          "totalValue": "0.000311230128315338"
+        }
+      ]
+    }
+  },
+  "reserveFLOAT": {
+    "subaccountsTotalValue": "0.000021612326991249",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000021612326991249",
+      "markets": [
+        {
+          "underlying": "0xb05097849bca421a3f51b249ba6cca4af4b97cb9",
+          "symbol": "FLOAT",
+          "eTokenAddr": "0x4321526980990555FB97562d719e42F0DBa0EAda",
+          "eTokenBalance": "0.042271079661148014",
+          "eTokenBalanceUnderlying": "0.04227219926581227",
+          "dTokenAddr": "0x1B8ba569992B91814927B57C4D0F58248AbAeA94",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000021612326991249",
+          "borrowValue": "0.0",
+          "totalValue": "0.000021612326991249"
+        }
+      ]
+    }
+  },
+  "reserveNEXO": {
+    "subaccountsTotalValue": "0.304704206151771386",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.304704206151771386",
+      "markets": [
+        {
+          "underlying": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+          "symbol": "NEXO",
+          "eTokenAddr": "0xdf7FaEfcE7987A3cA0144302d469DaEc1cE76410",
+          "eTokenBalance": "771.145863571139865211",
+          "eTokenBalanceUnderlying": "794.484051682222072757",
+          "dTokenAddr": "0xf0ef7180d3de64a226245a96f1d507C0f9c0718a",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.304704206151771386",
+          "borrowValue": "0.0",
+          "totalValue": "0.304704206151771386"
+        }
+      ]
+    }
+  },
+  "reserveBRIGHT": {
+    "subaccountsTotalValue": "0.000000000000000022",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000000000000000022",
+      "markets": [
+        {
+          "underlying": "0x5dd57da40e6866c9fcc34f4b6ddc89f1ba740dfe",
+          "symbol": "BRIGHT",
+          "eTokenAddr": "0x65Bf4F691998BD3a35F3F095fb1f62c3C7AF6AD0",
+          "eTokenBalance": "0.000000000001",
+          "eTokenBalanceUnderlying": "0.000000000001",
+          "dTokenAddr": "0x41432F9f4D658552451152C094882D59543DfE3c",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000000000000000022",
+          "borrowValue": "0.0",
+          "totalValue": "0.000000000000000022"
+        }
+      ]
+    }
+  },
+  "reserveQNT": {
+    "subaccountsTotalValue": "0.000397634675563162",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.000397634675563162",
+      "markets": [
+        {
+          "underlying": "0x4a220e6096b25eadb88358cb44068a3248254675",
+          "symbol": "QNT",
+          "eTokenAddr": "0xfF3E7C90e8629576ed644fA964c5fB9476754E11",
+          "eTokenBalance": "0.005054473292297198",
+          "eTokenBalanceUnderlying": "0.005054865666075461",
+          "dTokenAddr": "0x2aAd9277a43D585EC951eF0a12c264A3D57C864a",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.000397634675563162",
+          "borrowValue": "0.0",
+          "totalValue": "0.000397634675563162"
+        }
+      ]
+    }
+  },
+  "reserveGAMMA": {
+    "subaccountsTotalValue": "0.002539397049428322",
+    "isReserves": true,
+    "id0": {
+      "address": "",
+      "totalValue": "0.002539397049428322",
+      "markets": [
+        {
+          "underlying": "0x6bea7cfef803d1e3d5f7c0103f7ded065644e197",
+          "symbol": "GAMMA",
+          "eTokenAddr": "0x95255dAC717980EA1460b732533Df7982b48b444",
+          "eTokenBalance": "30.142863339186601765",
+          "eTokenBalanceUnderlying": "30.274388560196352084",
+          "dTokenAddr": "0x89abE2FD88288F1506D479511d9b3D07bE6D5044",
+          "dTokenBalance": "0.0",
+          "stakedETokenBalance": "0.0",
+          "stakedETokenBalanceUnderlying": "0.0",
+          "stakedValue": "0.0",
+          "depositValue": "0.002539397049428322",
+          "borrowValue": "0.0",
+          "totalValue": "0.002539397049428322"
+        }
+      ]
+    }
+  }
+}
