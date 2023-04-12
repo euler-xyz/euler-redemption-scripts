@@ -6,6 +6,8 @@ Accounts eligible for refunds are available in [claims.json](./data/claims.json)
 
 The scripts construct the state of all accounts before the platform was disabled. The EToken module was disabled at block `16818363`, and the block before was the last one where the view contract can be queried. DToken was disabled at block `16818853`, at which point all activity was halted. Between these blocks there was a number of borrows and repays executed, as well as a single burn. The final value of accounts serves as a basis for calculating claims in a fair and equitable way.
 
+See [MECHANISM.md](./MECHANISM.md) for details.
+
 ### Installation and configuration
 - Install dependencies:
 `npm i`
